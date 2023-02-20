@@ -67,3 +67,7 @@ footer {
 
     padding: 0 4rem 3.2rem 0;
 }
+
+article, aside, section {
+    display: none;
+}
