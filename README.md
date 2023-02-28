@@ -27,6 +27,6 @@ Um sistema de timer, com opções de play, pause, stop e set. Contém música de
 <hr>
 
 ## 🔖 Deploy:
-<a href="https://focus-timer-4ryd.vercel.app/">Focus Timer</a>
+<a href="https://focus-timer-xi.vercel.app/">Focus Timer</a>
 <hr>
 Feito por <a href="https://www.linkedin.com/in/anderson-coitinho/">Anderson Coitinho</a>
