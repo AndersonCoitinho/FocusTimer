@@ -17,7 +17,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <hr>
 
 ## 💻 Projeto:
-Um jogo de adivinhação, sistema vai gerar um número de 0 a 10 randomicamente e o usuário deverá tentar acertar este número.
+Um sistema de timer, com opções de play, pause, stop e set. Contém música de fundo e som sonoro quando o timer for zerado.
 
 <hr>
 
