@@ -27,6 +27,6 @@ Um sistema de timer para a técnica de pomodoro, com opções de play, pause, st
 <hr>
 
 ## 🔖 Deploy:
-<a href="https://focus-timer-xi.vercel.app/">Focus Timer</a>
+<a href="https://focus-timer-xi.vercel.app/">Pomodoro</a>
 <hr>
 Feito por <a href="https://www.linkedin.com/in/anderson-coitinho/">Anderson Coitinho</a>
