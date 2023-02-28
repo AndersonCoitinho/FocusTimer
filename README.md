@@ -1,4 +1,4 @@
-<h1 align="center">Focus Timer</h1>
+<h1 align="center">Pomodoro</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -17,7 +17,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <hr>
 
 ## 💻 Projeto:
-Um sistema de timer, com opções de play, pause, stop e set. Contém música de fundo e som sonoro quando o timer for zerado.
+Um sistema de timer para a técnica de pomodoro, com opções de play, pause, stop e set. Contém música de fundo e som sonoro quando o timer for zerado.
 
 <hr>
 
